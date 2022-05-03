@@ -1,2 +1,3 @@
-
+hello
 getting started with git
+git is used to track the changes made to particular project
